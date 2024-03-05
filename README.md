@@ -1,1 +1,1 @@
-Actividad 2 (test vs code)
+Actividad 2 (resonsive)
